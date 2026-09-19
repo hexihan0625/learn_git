@@ -1,0 +1,10 @@
+my-notes.txt
+
+temp/
+
+build/
+# 编译产物
+main
+*.o
+*.out
+.vscode/
